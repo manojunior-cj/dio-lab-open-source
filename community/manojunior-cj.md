@@ -1,5 +1,5 @@
 # Manojunior-cj
-Estudante de T.I aprendendo cada vez mais, tentando entender como funciona as IDE. Por enquanto nenhuma habilidade, porem em busca de conquistar.
+Estudante de T.I aprendendo cada vez mais, tentando entender como funciona as IDEs. Por enquanto nenhuma habilidade, porém em busca de conquistar.
 
 ## Meu perfil
 [Linkedin](https://www.linkedin.com/in/cristiano-junior-01a853171/)
